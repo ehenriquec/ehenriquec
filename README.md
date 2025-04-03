@@ -20,7 +20,6 @@ Estou à procura de oportunidades para colaborar em projetos e continuar aprimor
 ## Ferramentas e Tecnologias em Aprendizado
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 
-
 <div>
 <a href="https://github.com/ehenriquec">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehenriquec&layout=compact&langs_count=7&theme=dracula"/>
@@ -30,3 +29,4 @@ Estou à procura de oportunidades para colaborar em projetos e continuar aprimor
           
 
           
+
